@@ -9,4 +9,7 @@ public class saludo {
     public void metodo2() {
         System.out.println("Soy el dos");
     }
+    public void metodo3() {
+        System.out.println("Soy el tres");
+    }
 }
