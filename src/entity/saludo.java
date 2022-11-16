@@ -12,4 +12,7 @@ public class saludo {
     public void metodo3() {
         System.out.println("Soy el tres");
     }
+    public void metodo4() {
+        System.out.println("Soy el cuatro");
+    }
 }
